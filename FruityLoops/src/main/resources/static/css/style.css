@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+h1 {
+	color: dark grey;
+	text-align: center;
+}
+
+th {
+	background-color: grey;
+	color: white;
+}
+
+th, td {
+	border-bottom: 2px solid black;
+	width: 25vw;
+}
+
+table {
+	background-color: grey;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
